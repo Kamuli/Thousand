@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AlbumTableViewController.h
 //  Thousand Words
 //
 //  Created by Juha Näppi on 23.9.2014.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AlbumTableViewController : UITableViewController
 
 @end
-
